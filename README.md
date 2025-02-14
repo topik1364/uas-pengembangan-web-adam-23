@@ -1,10 +1,14 @@
 # uas-pengembangan-web-adam-23
 <html>
-<title>Uas Pengembangan Web Adam BD 23 Pagi</title>
-<frameset rows=80,* border=1>
-<frame name=header src="atas1.html">
-<frameset cols=400,* border=>
-<frame name=left_menu src="kiri1.html">
-<frame name=main_page src="biodata1.html">
-</frameset>
-<html>
+<body bgcolor="black">
+<center><font size="30" color="white">RSV HELM</font><br>
+<font size=15 color=white>
+<img src="home page.jpg" width="800" hight="700"><p>
+<a href="a1">Classic Helm<br>
+<img src="man outfit.jpg" width="500" hight="400"><p>
+<a href="a2.html">Modern Helm SV-300<br>
+<img src="woman.jpg" width="500" hight="400"><p>
+<a href="a3.html">Full Face Helm<br>
+<img src="children.jpg" width="500" hight="400"><p>
+
+</html>
